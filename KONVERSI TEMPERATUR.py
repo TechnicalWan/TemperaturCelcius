@@ -8,7 +8,7 @@ mess """ .%%...%%...%%%%...%%..%%..%%..%%..%%..%%.
 ..%%.%%...%%..%%..%%..%%..%%..%%..%%..%%.
 
 Creator : W4N Cyb3r7
-YouTube : Technical Wan
+YouTube : Wann
 Github  : github.com/TechnicalWan              
 ======================================================
 """
